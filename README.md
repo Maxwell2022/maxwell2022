@@ -66,3 +66,5 @@ My name is Maxime, I'm a Platform / Software Engineer located in Sydney, Austral
 DevOps, Optimization, Analysis, Management, Programming, Training, Monitoring, AWS, Kubernetes, Prometheus, GraphQL, Terraform, Docker, NodeJS, PHP, JavaScript, TypeScript, React, SQL, Nginx, Git, Contentful, Jira, Confluence, Grafana, Segment, Fivetran, Hubspot, Webflow, Lambda, Serverless, NextJS, NestJS, Apollo Federation, EKS, ECS, EC2, RDS, S3, CloudFront, Route53, CloudWatch, CloudFormation, IAM, VPC, RDS, DynamoDB, ElasticSearch, AWS Beanstalk, SSO, SAML, OIDC, Sentry, NewRelic, Slack, Github Actions, CircleCI and more.
 
 💡 Passionate about technology and AI, enjoys improving developer experience and automating processes.
+
+![image](https://github.com/Maxwell2022/maxwell2022/assets/670701/5acdd0d8-4e79-4d67-9cbc-1a2dff947f9e)
